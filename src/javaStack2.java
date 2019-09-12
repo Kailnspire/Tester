@@ -1,4 +1,8 @@
 import java.util.Stack;
+/*
+    Random stack demonstration written in Java
+ */
+
 
 public class javaStack2 {
     public static void main(String[]args){
